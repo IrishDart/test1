@@ -170,7 +170,7 @@ K,Zane Gonzalez,21,2017,76,40,64,97,65,40,0.4,4
 K,Britton Colquitt,31,2009,68,45,68,81,67,45,1.8,4
 END_PLAYERS
 Pittsburgh Steelers,PIT
-QB,Eddie Martel,17,2020,90,60,83,74,62,37,1.6,8
+QB,Eddie Martel,17,2016,90,60,83,74,62,37,1.6,8
 QB,Ben Roethlisbergr,34,2004,58,85,95,95,85,63,17.1,3
 QB,Joshua Dobbs,21,2017,88,50,78,87,61,80,0.6,4
 RB,Terrell Watson,23,2015,77,35,78,73,78,68,0.3,1
@@ -227,7 +227,7 @@ K,Chris Boswell,25,2014,77,54,65,88,87,54,0.4,2
 K,Jordan Berry,25,2014,70,45,65,87,70,45,0.3,1
 END_PLAYERS
 Buffalo Bills,BUF
-QB,Dan Heller,16,2022,94,64,70,63,54,40,0.6,8
+QB,Dan Heller,16,2016,94,64,70,63,54,40,0.6,8
 QB,Tyrod Taylor,27,2011,80,70,83,87,67,76,11.7,2
 QB,Nathan Peterman,22,2017,76,52,85,87,61,53,0.4,4
 RB,Taiwan Jones,28,2011,79,60,71,61,88,80,0.5,1
@@ -400,7 +400,7 @@ END_PLAYERS
 New York Jets,NYJ
 QB,Josh McCown,37,2002,71,67,70,74,74,45,5.6,2
 QB,Christian Hackenberg,21,2016,87,45,78,89,57,40,1,3
-QB,Bo McNamara,16,2021,99,85,80,57,50,45,0.5,8
+QB,Bo McNamara,16,2016,99,85,80,57,50,45,0.5,8
 RB,Matt Forte,31,2008,44,70,83,87,78,88,3.1,2
 RB,Elijah McGuire,22,2017,86,40,78,70,81,70,0.4,4
 RB,Bilal Powell,28,2011,81,78,73,73,78,75,2.9,2
@@ -513,7 +513,7 @@ K,Shane Lechler,40,2000,64,56,67,81,75,56,1.6,1
 END_PLAYERS
 Texas Armadillos,TEX
 QB,Andrew Luck,27,2012,88,73,78,95,78,67,16.4,5
-QB,Paul Blake,18,2018,94,75,85,80,70,40,3.3,8
+QB,Paul Blake,18,2016,94,75,85,80,70,40,3.3,8
 QB,Jacoby Brissett,23,2016,85,70,85,93,61,70,0.6,3
 RB,Frank Gore,33,2005,41,99,85,75,78,81,2.5,2
 RB,Robert Turbin,27,2012,71,59,78,73,85,80,0.8,2
@@ -628,7 +628,7 @@ END_PLAYERS
 Tennessee Titans,TEN
 QB,Matt Cassel,34,2005,43,63,78,71,60,37,1.6,2
 QB,Marcus Mariota,23,2015,97,75,88,83,72,74,6.3,6
-QB,Rev Harris,16,2022,97,70,70,56,50,60,0.5,8
+QB,Rev Harris,16,2016,97,70,70,56,50,60,0.5,8
 RB,David Fluellen,24,2014,65,35,75,63,68,78,0.4,2
 RB,Demarco Murray,28,2011,53,95,75,83,83,96,3.9,3
 RB,Derrick Henry,22,2016,92,70,85,83,81,83,1.2,3
@@ -1027,7 +1027,7 @@ END_PLAYERS
 Green Bay Packers,GB
 QB,Aaron Rodgers,33,2005,81,99,91,99,95,65,18.1,6
 QB,Brett Hundley,23,2015,87,40,81,87,58,67,0.4,2
-QB,Ronnie Bass,15,2022,95,60,80,50,50,40,0.9,8
+QB,Ronnie Bass,15,2016,95,60,80,50,50,40,0.9,8
 RB,Jamaal Williams,21,2017,81,45,75,73,81,78,0.6,4
 RB,Devante Mays,22,2017,80,40,75,68,81,76,0.4,4
 RB,Ty Montgomery,23,2015,83,67,70,70,85,88,0.6,2
