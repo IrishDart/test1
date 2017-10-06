@@ -170,7 +170,7 @@ K,Zane Gonzalez,21,2017,76,40,64,97,65,40,0.4,4
 K,Britton Colquitt,31,2009,68,45,68,81,67,45,1.8,4
 END_PLAYERS
 Pittsburgh Steelers,PIT
-QB,Eddie Martel,20,2016,90,60,83,74,62,37,1.6,8
+QB,Landry Jones,27,2013,86,40,83,87,62,37,1.6,2
 QB,Ben Roethlisbergr,34,2004,58,85,95,95,85,63,17.1,3
 QB,Joshua Dobbs,21,2017,88,50,78,87,61,80,0.6,4
 RB,Terrell Watson,23,2015,77,35,78,73,78,68,0.3,1
@@ -227,7 +227,7 @@ K,Chris Boswell,25,2014,77,54,65,88,87,54,0.4,2
 K,Jordan Berry,25,2014,70,45,65,87,70,45,0.3,1
 END_PLAYERS
 Buffalo Bills,BUF
-QB,Dan Heller,20,2016,94,64,70,63,54,40,0.6,8
+QB,Joe Webb,30,2010,79,54,70,83,54,80,0.6,1
 QB,Tyrod Taylor,27,2011,80,70,83,87,67,76,11.7,2
 QB,Nathan Peterman,22,2017,76,52,85,87,61,53,0.4,4
 RB,Taiwan Jones,28,2011,79,60,71,61,88,80,0.5,1
@@ -286,7 +286,7 @@ END_PLAYERS
 Miami Sharks,MIA
 QB,Jay Cutler,33,2006,67,61,81,99,62,37,6.3,2
 QB,Ryan Tannehill,28,2012,84,67,93,88,67,66,14,4
-QB,Cap Rooney,20,2016,95,83,87,71,63,37,1.3,8
+QB,Matt Moore,32,2007,70,63,87,71,63,37,1.3,1
 RB,Jay Ajayi,23,2015,88,83,67,87,81,96,0.4,2
 RB,Damien Williams,24,2014,79,60,73,70,87,81,1.1,1
 RB,Kenyan Drake,22,2016,79,45,68,60,87,76,0.7,3
@@ -400,7 +400,7 @@ END_PLAYERS
 New York Jets,NYJ
 QB,Josh McCown,37,2002,71,67,70,74,74,45,5.6,2
 QB,Christian Hackenberg,21,2016,87,45,78,89,57,40,1,3
-QB,Bo McNamara,20,2016,99,85,80,57,50,45,0.5,8
+QB,Bryce Petty,25,2015,86,45,70,87,60,45,0.5,2
 RB,Matt Forte,31,2008,44,70,83,87,78,88,3.1,2
 RB,Elijah McGuire,22,2017,86,40,78,70,81,70,0.4,4
 RB,Bilal Powell,28,2011,81,78,73,73,78,75,2.9,2
@@ -413,9 +413,9 @@ WR,Jermaine Kearse,26,2012,77,73,88,73,85,73,4,2
 WR,Charone Peake,24,2016,87,35,68,61,90,78,0.4,3
 WR,Chad Hansen,21,2017,92,45,75,71,83,66,0.5,4
 WR,Jordan Leggett,21,2017,72,45,71,70,68,66,0.5,4
-WR,Austin S-Jenkins,24,2014,91,50,73,75,81,66,1.1,2
+WR,Austin S-Jenkins,24,2014,91,50,73,75,81,66,1.2,2
 WR,Will Tye,25,2015,82,64,75,75,78,63,0.4,1
-WR,Will Bill,25,2015,82,64,75,75,78,63,0.4,1
+WR,Neal Sterling,24,2015,91,40,73,60,73,73,0.4,1
 OL,Ben Ijalana,27,2011,82,45,73,75,62,60,3.8,2
 OL,James Carpenter,27,2011,78,73,78,85,65,83,3.5,2
 OL,Dakota Dozier,25,2014,96,56,78,70,64,63,0.4,1
@@ -512,9 +512,9 @@ K,Ka'lmi Fairbairn,22,2016,94,35,65,81,75,35,0.3,2
 K,Shane Lechler,40,2000,64,56,67,81,75,56,1.6,1
 END_PLAYERS
 Texas Armadillos,TEX
-QB,Andrew Luck,27,2012,88,73,78,95,78,67,16.4,5
-QB,Paul Blake,20,2016,94,75,85,80,70,40,3.3,8
-QB,Jacoby Brissett,23,2016,85,70,85,93,61,70,0.6,3
+QB,Andrew Luck,27,2012,90,73,85,95,78,67,19.4,5
+QB,Scott Tolzien,29,2011,79,45,85,70,62,40,1.3,2
+QB,Jacoby Brissett,23,2016,85,65,85,93,61,70,0.6,3
 RB,Frank Gore,33,2005,41,99,85,75,78,81,2.5,2
 RB,Robert Turbin,27,2012,71,59,78,73,85,80,0.8,2
 RB,Matt Jones,23,2015,77,60,65,65,83,78,0.6,2
@@ -568,7 +568,7 @@ S,Clayton Geathers,24,2015,77,65,78,81,78,78,0.5,2
 K,Adam Vinatieri,44,1996,57,60,71,81,90,60,1.9,2
 K,Rigoberto Sanchez,22,2017,68,35,75,71,64,35,0.3,3
 END_PLAYERS
-Mississippi Muddogs,MIS
+Mississippi MudDogs,MIS
 QB,Blake Bortles,24,2014,84,63,95,90,63,57,7,2
 QB,Chad Henne,31,2008,57,60,83,81,60,37,2.5,1
 RB,Leonard Fournette,21,2017,92,61,73,89,85,90,7,4
@@ -628,7 +628,6 @@ END_PLAYERS
 Tennessee Titans,TEN
 QB,Matt Cassel,34,2005,43,63,78,71,60,37,1.6,2
 QB,Marcus Mariota,23,2015,97,75,88,83,72,74,6.3,6
-QB,Rev Harris,20,2016,97,70,70,56,50,60,0.5,8
 RB,David Fluellen,24,2014,65,35,75,63,68,78,0.4,2
 RB,Demarco Murray,28,2011,53,95,75,83,83,96,3.9,3
 RB,Derrick Henry,22,2016,92,70,85,83,81,83,1.2,3
@@ -641,6 +640,7 @@ WR,Tajae Sharpe,22,2016,82,62,78,75,78,70,0.5,3
 WR,Harry Douglas,32,2008,55,60,75,70,81,73,2,1
 WR,Rishard Matthews,27,2012,60,78,83,83,83,73,3.7,2
 WR,Jonnu Smith,21,2017,81,40,78,61,73,67,0.6,4
+WR,Phillip Supernaw,26,2012,66,57,73,62,67,68,1.1,2
 WR,Delanie Walker,32,2006,62,93,73,87,77,75,3.3,2
 OL,Taylor Lewan,25,2014,94,83,83,87,93,78,3.6,4
 OL,Dennis Kelly,26,2012,81,52,81,75,70,58,0.9,3
@@ -853,7 +853,7 @@ S,Shalom Luani,22,2017,93,40,81,71,78,55,0.4,4
 K,Georgio Tavecchio,27,2012,78,55,88,88,90,55,0.6,3
 K,Marquette King,28,2012,64,57,71,95,83,57,2.1,4
 END_PLAYERS
-Los Angeles Stallions,LAS
+Los Angeles Stallions,LAs
 QB,Kellen Clemens,33,2006,46,59,71,71,61,37,0.7,1
 QB,Cardale Jones,24,2016,77,45,85,97,54,65,0.5,3
 QB,Philip Rivers,35,2004,58,93,99,86,75,37,15.8,3
@@ -1027,12 +1027,12 @@ END_PLAYERS
 Green Bay Packers,GB
 QB,Aaron Rodgers,33,2005,81,99,91,99,95,65,18.1,6
 QB,Brett Hundley,23,2015,87,40,81,87,58,67,0.4,2
-QB,Ronnie Bass,20,2016,95,60,80,50,50,40,0.9,8
 RB,Jamaal Williams,21,2017,81,45,75,73,81,78,0.6,4
 RB,Devante Mays,22,2017,80,40,75,68,81,76,0.4,4
 RB,Ty Montgomery,23,2015,83,67,70,70,85,88,0.6,2
 RB,Aaron Jones,22,2017,84,40,68,68,83,83,0.4,4
 RB,Aaron Ripkowski,24,2015,89,71,68,54,68,45,0.4,2
+WR,Trevor Davis,23,2016,67,40,73,62,88,63,0.4,3
 WR,Jeff Janis,25,2014,81,45,75,64,88,67,0.4,1
 WR,Geronimo Allison,22,2016,72,45,71,64,78,70,0.3,2
 WR,Randall Cobb,26,2011,86,78,83,97,87,76,8.3,2
@@ -1141,7 +1141,7 @@ END_PLAYERS
 Dallas Cowboys,DAL
 QB,Cooper Rush,23,2017,85,35,85,81,74,53,0.3,3
 QB,Dak Prescott,23,2016,97,81,90,90,75,74,5.5,8
-QB,Bryce Petty,25,2015,86,45,70,87,60,45,0.5,2
+QB,Kellen Moore,27,2012,74,57,83,65,65,37,0.5,1
 RB,Alfred Morris,28,2012,53,64,90,81,78,78,1.4,2
 RB,Rod Smith,24,2015,63,40,78,61,75,74,0.4,2
 RB,Darren McFadden,29,2008,55,65,62,68,83,74,0.7,2
