@@ -1,6 +1,6 @@
 Baltimore Colts,BAL
 QB,Joe Flacco,31,2008,70,67,90,99,68,40,19.9,3
-QB,Ryan Mallett,28,2011,67,45,78,93,60,37,1.9,1
+QB,Derek McConnell,20,2017,95,65,78,88,65,47,1.9,12
 RB,Javorius Allen,25,2015,68,50,73,70,81,76,0.5,2
 RB,Kenneth Dixon,22,2016,83,60,81,75,78,90,0.5,3
 RB,Terrance West,25,2014,88,73,85,75,81,86,1.1,1
